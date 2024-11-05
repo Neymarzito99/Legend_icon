@@ -1,0 +1,216 @@
+{
+    "PlayerData": [
+        {
+            "ID": 1,
+            "Forename": "Dida",
+            "Surname": "N/A",
+            "Position": "GK",
+            "OVR": 96,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 2,
+            "Forename": "Paolo",
+            "Surname": "Maldini",
+            "Position": "CB",
+            "OVR": 99,
+            "Country": "Italy"
+        },
+        {
+            "ID": 3,
+            "Forename": "Franz",
+            "Surname": "Beckenbauer",
+            "Position": "CB",
+            "OVR": 99,
+            "Country": "Germany"
+        },
+        {
+            "ID": 4,
+            "Forename": "Roberto",
+            "Surname": "Carlos",
+            "Position": "LB",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 5,
+            "Forename": "Cafu",
+            "Surname": "N/A",
+            "Position": "RB",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 6,
+            "Forename": "Carlos",
+            "Surname": "Alberto",
+            "Position": "RB",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 7,
+            "Forename": "Dani",
+            "Surname": "Alves",
+            "Position": "RB",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 8,
+            "Forename": "Lothar",
+            "Surname": "Matth\u00e4us",
+            "Position": "CDM",
+            "OVR": 99,
+            "Country": "Germany"
+        },
+        {
+            "ID": 9,
+            "Forename": "Ricardo",
+            "Surname": "Kak\u00e1",
+            "Position": "CAM",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 10,
+            "Forename": "Zinedine",
+            "Surname": "Zidane",
+            "Position": "CAM",
+            "OVR": 99,
+            "Country": "France"
+        },
+        {
+            "ID": 11,
+            "Forename": "Ronaldinho",
+            "Surname": "N/A",
+            "Position": "LW",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 12,
+            "Forename": "Garrincha",
+            "Surname": "N/A",
+            "Position": "RW",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 13,
+            "Forename": "Jairzinho",
+            "Surname": "N/A",
+            "Position": "RW",
+            "OVR": 99,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 14,
+            "Forename": "Ronaldo",
+            "Surname": "Naz\u00e1rio",
+            "Position": "CF",
+            "OVR": 100,
+            "Country": "Brazil"
+        },
+        {
+            "ID": 15,
+            "Forename": "Pel\u00e9",
+            "Surname": "N/A",
+            "Position": "CF",
+            "OVR": 100,
+            "Country": "Brazil"
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Real Madrid",
+            "ShortName": "RM",
+            "ImageURL": "real_madrid.png"
+        },
+        {
+            "ID": 2,
+            "Name": "Barcelona",
+            "ShortName": "BAR",
+            "ImageURL": "barcelona.png"
+        },
+        {
+            "ID": 3,
+            "Name": "Bayern Munich",
+            "ShortName": "BAY",
+            "ImageURL": "bayern_munich.png"
+        },
+        {
+            "ID": 4,
+            "Name": "Manchester United",
+            "ShortName": "MU",
+            "ImageURL": "man_utd.png"
+        },
+        {
+            "ID": 5,
+            "Name": "AC Milan",
+            "ShortName": "ACM",
+            "ImageURL": "ac_milan.png"
+        },
+        {
+            "ID": 6,
+            "Name": "Liverpool",
+            "ShortName": "LIV",
+            "ImageURL": "liverpool.png"
+        }
+    ],
+    "LeagueData": [],
+    "CupData": [
+        {
+            "ID": 1,
+            "Name": "La Liga",
+            "ImageURL": "la_liga.png"
+        },
+        {
+            "ID": 2,
+            "Name": "EPL",
+            "ImageURL": "epl.png"
+        },
+        {
+            "ID": 3,
+            "Name": "Serie A",
+            "ImageURL": "serie_a.png"
+        },
+        {
+            "ID": 4,
+            "Name": "Bundesliga",
+            "ImageURL": "bundesliga.png"
+        },
+        {
+            "ID": 5,
+            "Name": "UCL",
+            "ImageURL": "ucl.png"
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1,
+            "Name": "Estadio Santiago Bernab\u00e9u"
+        },
+        {
+            "ID": 2,
+            "Name": "Camp Nou"
+        },
+        {
+            "ID": 3,
+            "Name": "Old Trafford"
+        },
+        {
+            "ID": 4,
+            "Name": "Anfield"
+        },
+        {
+            "ID": 5,
+            "Name": "Allianz Arena"
+        },
+        {
+            "ID": 6,
+            "Name": "San Siro"
+        }
+    ]
+}
